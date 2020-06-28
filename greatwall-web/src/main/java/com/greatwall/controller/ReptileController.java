@@ -1,9 +1,4 @@
 /*
- * Project Name:mall-user-web
- * File Name:MerchantInfoController.java
- * Package Name:com.mall.user.controller.MerchantInfoController
- * Date:2017-07-04 18:14:18
- * Copyright (c) 2017, ehking All Rights Reserved.
  */
 
 package com.greatwall.controller;
