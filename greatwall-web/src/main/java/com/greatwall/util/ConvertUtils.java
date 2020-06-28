@@ -3,7 +3,6 @@
  * File Name:ConvertUtils.java
  * Package Name:com.greatwall.util.ConvertUtils
  * Date:2018-01-29 16:02:31
- * Copyright (c) 2018, ehking All Rights Reserved.
  */
 
 package com.greatwall.util;
