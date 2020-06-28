@@ -3,7 +3,6 @@
  * File Name:ResponseUtils.java
  * Package Name:com.mall.user.util.ResponseUtils
  * Date:2017-07-04 10:44:26
- * Copyright (c) 2017, ehking All Rights Reserved.
  */
 
 package com.greatwall.util;
