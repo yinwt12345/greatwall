@@ -3,7 +3,6 @@
  * File Name:JianDanHtmlParser.java
  * Package Name:com.greatwall.spider.JianDanHtmlParser
  * Date:2018-01-29 16:12:15
- * Copyright (c) 2018, ehking All Rights Reserved.
  */
 
 package com.greatwall.spider;
